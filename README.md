@@ -538,6 +538,8 @@
 
 * 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. [[Paper]](https://arxiv.org/abs/2007.08199) [[Project Page]](https://github.com/songhwanjun/Awesome-Noisy-Labels)
 
+* 2024-TMLR - Mislabeled examples detection viewed as probing machine learning models: concepts, survey and extensive benchmark [[Paper]](https://openreview.net/pdf?id=3YlOr7BHkx) [[Code]](https://github.com/Orange-OpenSource/mislabeled)
+
 ## Github
 
 * [Advances-in-Label-Noise-Learning](https://github.com/weijiaheng/Advances-in-Label-Noise-Learning)
